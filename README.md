@@ -9,7 +9,7 @@ Jiaqi Ma\*, Junwei Deng\*, and Qiaozhu Mei. ArXiv 2021.
 (\*: equal constribution)
 
 ## Requirements
-- dgl 0.4.2
+- dgl 0.4.3
 - torch 1.4.0    
 - networkx 2.3  
 - numpy 1.16.4 
