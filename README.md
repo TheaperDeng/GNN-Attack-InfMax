@@ -4,7 +4,7 @@ This repo provides the official implementations for the experiments described in
 
 [**Adversarial Attack on Graph Neural Networks as An Influence Maximization Problem**](https://arxiv.org/abs/2106.10785)
 
-Jiaqi Ma\*, Junwei Deng\*, and Qiaozhu Mei. ArXiv 2021.
+Jiaqi Ma\*, Junwei Deng\*, and Qiaozhu Mei. WSDM 2022.
 
 (\*: equal constribution)
 
